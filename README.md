@@ -8,3 +8,4 @@ Lambda function to stop and start instances based on CloudWatch Events
 * Add Terraform scripts
 * Add CloudFormation templates
 * Improvements
+* Create better README
